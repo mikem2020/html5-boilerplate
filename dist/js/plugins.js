@@ -1,5 +1,6 @@
 // Avoid `console` errors in browsers that lack a console.
 // Some new comments
+// Some more new comments
 (function() {
   var method;
   var noop = function () {};
